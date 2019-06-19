@@ -1,0 +1,10 @@
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/Application.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/Exceptions/OperationNotSupportedException.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/models/ParkingOperationsEnum.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/Exceptions/SlotNotfoundException.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/services/SlotAssignmentServiceImpl.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/Exceptions/InvalidParametersException.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/models/MessagesEnum.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/models/Car.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/services/SlotAssignmentService.java
+/Users/abhishek.t/Downloads/gj-test-assignment/src/main/java/com/parkinglot/solution/models/Vehicle.java
